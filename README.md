@@ -9,4 +9,8 @@
         Se sont des programmes qui permettent d'envoyer des fichiers via des sockets
         
         
+  **matrice.c 
+        C'est un programme pour calculer le  carre d'une matrice
+        
+        
 
