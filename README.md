@@ -1,4 +1,4 @@
-# projet1
+# projet2
 
  
  **Exo2.c
